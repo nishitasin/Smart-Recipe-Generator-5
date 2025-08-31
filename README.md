@@ -1,4 +1,4 @@
-# Smart-Recipe-Generator-5
+# Smart Recipe Generator
 
 This is a web application that uses generative AI to create custom recipes based on ingredients you have on hand. Simply snap a picture of your ingredients, and the app will recognize them and generate a unique recipe for you.
 
