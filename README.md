@@ -67,3 +67,5 @@ npm run dev
 This will start the Next.js frontend on `http://localhost:9002`.
 
 You can now open your browser and navigate to the address to start using the Smart Recipe Generator.
+
+this is my vercel account - https://vercel.com/nishita-singhs-projects-31cb029a/smart-recipe-generator-5/4DfbFf2AHC4CJQKTARQXDuSDGse5
